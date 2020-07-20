@@ -1,2 +1,6 @@
-# nlp-twitter-sentiment-analysis
-NLP- US Airlines Tweets
+# Natural Language Processing on US Airline Customer Tweets
+
+->Data was first cleaned, removed stop words and punctuations.
+->Simultaneously, lemmatization was also performed.
+->After train, test, split, the data was successfully classifed wiht an accuracy of around 77% .
+
