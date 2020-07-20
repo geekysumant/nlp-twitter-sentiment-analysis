@@ -4,4 +4,4 @@
 
 ->Simultaneously, lemmatization was also performed.
 
-->After train, test, split, the data was successfully classifed wiht an accuracy of around 77% .
+->After train, test, split, the data was successfully classifed with an accuracy of around 77% .
